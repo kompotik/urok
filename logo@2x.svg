@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="348" height="34" viewBox="0 0 174 17">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 30px;
+        fill: #fff;
+        font-family: RoadRadio;
+        font-weight: 300;
+        text-transform: uppercase;
+      }
+
+      .cls-2 {
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="купиКупе" class="cls-1" x="-1.004" y="17">купи<tspan class="cls-2">Купе</tspan></text>
+</svg>
